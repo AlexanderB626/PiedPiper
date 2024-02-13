@@ -1,0 +1,17 @@
+h1{background-color: rgb(206, 248, 16);}
+.parrafo-header{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+.boton-header{  
+                border: 2px solid black;
+                border-radius: 25px; 
+                height: 50px;
+                min-width: 120px;}
+ .boton-importante{
+    background-color: black;
+    color: white; }
+
+    #info{
+        color:brown;
+        height:100px;
+        width:100px;
+        border-radius: 100%;
+    }
